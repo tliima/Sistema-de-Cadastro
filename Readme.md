@@ -4,5 +4,6 @@
 
 
 Para rodar esse projeto na sua propira  maquina, porfavor digite:
-
-npm install rect
+´´´
+Node app.js
+´´´
